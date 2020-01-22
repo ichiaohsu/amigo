@@ -1,0 +1,8 @@
+{   "mysql":{
+        "host": "",
+        "port": 3306,
+        "user": "",
+        "password": "",
+        "schema_path": "file://db_schema"
+    }
+}
